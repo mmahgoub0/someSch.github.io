@@ -1,0 +1,107 @@
+body {
+	background-image: url('bkg.png');
+	font-family: Arial;
+	line-height: 1.5;
+	text-align: left;
+}
+
+.body {
+	margin-right: 180px;
+	margin-left: 200px;
+	clear: both;
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	color: #CF5C3F;
+}
+
+.mainheader img {
+	width: 250px;
+	height: auto;
+	margin: 2% 0;
+	
+}
+
+
+.nav {
+	background-color: #666;
+	height: 40px;
+	border-radius: 5px;
+	
+}
+
+
+.nav ul {
+	list-style: none;
+	margin: 0 auto;
+	
+}
+
+.nav ul li {
+	float: left;
+	display: inline;
+	
+}
+
+.nav ul li a {
+	background-color: #666;
+	height: 70px;
+	border-radius: 5px;
+	
+}
+
+.nav a:link, .nav a:visited {
+	color: #fff;
+	display: inline-block;
+	padding: 10px 20px;
+	height: 20px;
+	
+}
+
+.nav a:hover, .nav a:active,
+.nav .active a:link, .nav .active a:visited {
+	background-color: #CF5C3F;
+	text-shadow: none;
+	
+}
+
+.maincontent news {
+	line-height: 25px;
+	border-radius: 5px;
+	width: 70%;
+	float: left;
+	
+}
+
+
+.contentNews{
+	width: 70%;
+	float: left;
+	
+}
+
+
+.firstNews, .secondNews {
+	width: 60%;
+	float: left;
+	padding: 3% 5%;
+	background-color: #fff;
+	border-radius: 5px;
+	margin-top: 2%;
+	
+}
+
+.loginFun {
+	
+
+	background-color: #fff;
+	border-radius: 5px;
+	margin-left: px;
+	
+	
+}
